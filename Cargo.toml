@@ -1,6 +1,6 @@
 [package]
 name = "waiting-pgrep"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Jacob Karlsson <jacob.karlsson95@gmail.com>"]
 description = "Sort of like pgrep, but if it can't find the process directly, it waits until it does"
 
